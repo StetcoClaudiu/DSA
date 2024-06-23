@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/Claudiu/Documents/GitHub/DSA/L3/build",
+  "command": "C:\\Downloads\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\L3.dir\\App.cpp.obj -c C:\\Users\\Claudiu\\Documents\\GitHub\\DSA\\L3\\App.cpp",
+  "file": "C:\\Users\\Claudiu\\Documents\\GitHub\\DSA\\L3\\App.cpp",
+  "output": "CMakeFiles\\L3.dir\\App.cpp.obj"
+},
+{
+  "directory": "C:/Users/Claudiu/Documents/GitHub/DSA/L3/build",
+  "command": "C:\\Downloads\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\L3.dir\\ExtendedTest.cpp.obj -c C:\\Users\\Claudiu\\Documents\\GitHub\\DSA\\L3\\ExtendedTest.cpp",
+  "file": "C:\\Users\\Claudiu\\Documents\\GitHub\\DSA\\L3\\ExtendedTest.cpp",
+  "output": "CMakeFiles\\L3.dir\\ExtendedTest.cpp.obj"
+},
+{
+  "directory": "C:/Users/Claudiu/Documents/GitHub/DSA/L3/build",
+  "command": "C:\\Downloads\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\L3.dir\\ShortTest.cpp.obj -c C:\\Users\\Claudiu\\Documents\\GitHub\\DSA\\L3\\ShortTest.cpp",
+  "file": "C:\\Users\\Claudiu\\Documents\\GitHub\\DSA\\L3\\ShortTest.cpp",
+  "output": "CMakeFiles\\L3.dir\\ShortTest.cpp.obj"
+},
+{
+  "directory": "C:/Users/Claudiu/Documents/GitHub/DSA/L3/build",
+  "command": "C:\\Downloads\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\L3.dir\\SortedSet.cpp.obj -c C:\\Users\\Claudiu\\Documents\\GitHub\\DSA\\L3\\SortedSet.cpp",
+  "file": "C:\\Users\\Claudiu\\Documents\\GitHub\\DSA\\L3\\SortedSet.cpp",
+  "output": "CMakeFiles\\L3.dir\\SortedSet.cpp.obj"
+},
+{
+  "directory": "C:/Users/Claudiu/Documents/GitHub/DSA/L3/build",
+  "command": "C:\\Downloads\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\L3.dir\\SortedSetIterator.cpp.obj -c C:\\Users\\Claudiu\\Documents\\GitHub\\DSA\\L3\\SortedSetIterator.cpp",
+  "file": "C:\\Users\\Claudiu\\Documents\\GitHub\\DSA\\L3\\SortedSetIterator.cpp",
+  "output": "CMakeFiles\\L3.dir\\SortedSetIterator.cpp.obj"
+}
+]

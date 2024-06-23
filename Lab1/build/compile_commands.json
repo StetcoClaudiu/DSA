@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/Claudiu/Documents/GitHub/DSA/Lab1/build",
+  "command": "C:\\Downloads\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\Lab1.dir\\App.cpp.obj -c C:\\Users\\Claudiu\\Documents\\GitHub\\DSA\\Lab1\\App.cpp",
+  "file": "C:/Users/Claudiu/Documents/GitHub/DSA/Lab1/App.cpp",
+  "output": "CMakeFiles/Lab1.dir/App.cpp.obj"
+},
+{
+  "directory": "C:/Users/Claudiu/Documents/GitHub/DSA/Lab1/build",
+  "command": "C:\\Downloads\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\Lab1.dir\\ExtendedTest.cpp.obj -c C:\\Users\\Claudiu\\Documents\\GitHub\\DSA\\Lab1\\ExtendedTest.cpp",
+  "file": "C:/Users/Claudiu/Documents/GitHub/DSA/Lab1/ExtendedTest.cpp",
+  "output": "CMakeFiles/Lab1.dir/ExtendedTest.cpp.obj"
+},
+{
+  "directory": "C:/Users/Claudiu/Documents/GitHub/DSA/Lab1/build",
+  "command": "C:\\Downloads\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\Lab1.dir\\FixedCapBiMap.cpp.obj -c C:\\Users\\Claudiu\\Documents\\GitHub\\DSA\\Lab1\\FixedCapBiMap.cpp",
+  "file": "C:/Users/Claudiu/Documents/GitHub/DSA/Lab1/FixedCapBiMap.cpp",
+  "output": "CMakeFiles/Lab1.dir/FixedCapBiMap.cpp.obj"
+},
+{
+  "directory": "C:/Users/Claudiu/Documents/GitHub/DSA/Lab1/build",
+  "command": "C:\\Downloads\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\Lab1.dir\\FixedCapBiMapIterator.cpp.obj -c C:\\Users\\Claudiu\\Documents\\GitHub\\DSA\\Lab1\\FixedCapBiMapIterator.cpp",
+  "file": "C:/Users/Claudiu/Documents/GitHub/DSA/Lab1/FixedCapBiMapIterator.cpp",
+  "output": "CMakeFiles/Lab1.dir/FixedCapBiMapIterator.cpp.obj"
+},
+{
+  "directory": "C:/Users/Claudiu/Documents/GitHub/DSA/Lab1/build",
+  "command": "C:\\Downloads\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\Lab1.dir\\ShortTest.cpp.obj -c C:\\Users\\Claudiu\\Documents\\GitHub\\DSA\\Lab1\\ShortTest.cpp",
+  "file": "C:/Users/Claudiu/Documents/GitHub/DSA/Lab1/ShortTest.cpp",
+  "output": "CMakeFiles/Lab1.dir/ShortTest.cpp.obj"
+}
+]

@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/Claudiu/Documents/GitHub/DSA/Lab4/build",
+  "command": "C:\\Downloads\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\Lab4.dir\\App.cpp.obj -c C:\\Users\\Claudiu\\Documents\\GitHub\\DSA\\Lab4\\App.cpp",
+  "file": "C:\\Users\\Claudiu\\Documents\\GitHub\\DSA\\Lab4\\App.cpp",
+  "output": "CMakeFiles\\Lab4.dir\\App.cpp.obj"
+},
+{
+  "directory": "C:/Users/Claudiu/Documents/GitHub/DSA/Lab4/build",
+  "command": "C:\\Downloads\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\Lab4.dir\\ExtendedTest.cpp.obj -c C:\\Users\\Claudiu\\Documents\\GitHub\\DSA\\Lab4\\ExtendedTest.cpp",
+  "file": "C:\\Users\\Claudiu\\Documents\\GitHub\\DSA\\Lab4\\ExtendedTest.cpp",
+  "output": "CMakeFiles\\Lab4.dir\\ExtendedTest.cpp.obj"
+},
+{
+  "directory": "C:/Users/Claudiu/Documents/GitHub/DSA/Lab4/build",
+  "command": "C:\\Downloads\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\Lab4.dir\\ShortTest.cpp.obj -c C:\\Users\\Claudiu\\Documents\\GitHub\\DSA\\Lab4\\ShortTest.cpp",
+  "file": "C:\\Users\\Claudiu\\Documents\\GitHub\\DSA\\Lab4\\ShortTest.cpp",
+  "output": "CMakeFiles\\Lab4.dir\\ShortTest.cpp.obj"
+},
+{
+  "directory": "C:/Users/Claudiu/Documents/GitHub/DSA/Lab4/build",
+  "command": "C:\\Downloads\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\Lab4.dir\\SMIterator.cpp.obj -c C:\\Users\\Claudiu\\Documents\\GitHub\\DSA\\Lab4\\SMIterator.cpp",
+  "file": "C:\\Users\\Claudiu\\Documents\\GitHub\\DSA\\Lab4\\SMIterator.cpp",
+  "output": "CMakeFiles\\Lab4.dir\\SMIterator.cpp.obj"
+},
+{
+  "directory": "C:/Users/Claudiu/Documents/GitHub/DSA/Lab4/build",
+  "command": "C:\\Downloads\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\Lab4.dir\\SortedMap.cpp.obj -c C:\\Users\\Claudiu\\Documents\\GitHub\\DSA\\Lab4\\SortedMap.cpp",
+  "file": "C:\\Users\\Claudiu\\Documents\\GitHub\\DSA\\Lab4\\SortedMap.cpp",
+  "output": "CMakeFiles\\Lab4.dir\\SortedMap.cpp.obj"
+}
+]

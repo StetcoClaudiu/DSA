@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/Claudiu/Desktop/L2/build",
+  "command": "C:\\Downloads\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\L2.dir\\App.cpp.obj -c C:\\Users\\Claudiu\\Desktop\\L2\\App.cpp",
+  "file": "C:/Users/Claudiu/Desktop/L2/App.cpp",
+  "output": "CMakeFiles/L2.dir/App.cpp.obj"
+},
+{
+  "directory": "C:/Users/Claudiu/Desktop/L2/build",
+  "command": "C:\\Downloads\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\L2.dir\\ExtendedTest.cpp.obj -c C:\\Users\\Claudiu\\Desktop\\L2\\ExtendedTest.cpp",
+  "file": "C:/Users/Claudiu/Desktop/L2/ExtendedTest.cpp",
+  "output": "CMakeFiles/L2.dir/ExtendedTest.cpp.obj"
+},
+{
+  "directory": "C:/Users/Claudiu/Desktop/L2/build",
+  "command": "C:\\Downloads\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\L2.dir\\ShortTest.cpp.obj -c C:\\Users\\Claudiu\\Desktop\\L2\\ShortTest.cpp",
+  "file": "C:/Users/Claudiu/Desktop/L2/ShortTest.cpp",
+  "output": "CMakeFiles/L2.dir/ShortTest.cpp.obj"
+},
+{
+  "directory": "C:/Users/Claudiu/Desktop/L2/build",
+  "command": "C:\\Downloads\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\L2.dir\\SortedBag.cpp.obj -c C:\\Users\\Claudiu\\Desktop\\L2\\SortedBag.cpp",
+  "file": "C:/Users/Claudiu/Desktop/L2/SortedBag.cpp",
+  "output": "CMakeFiles/L2.dir/SortedBag.cpp.obj"
+},
+{
+  "directory": "C:/Users/Claudiu/Desktop/L2/build",
+  "command": "C:\\Downloads\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\L2.dir\\SortedBagIterator.cpp.obj -c C:\\Users\\Claudiu\\Desktop\\L2\\SortedBagIterator.cpp",
+  "file": "C:/Users/Claudiu/Desktop/L2/SortedBagIterator.cpp",
+  "output": "CMakeFiles/L2.dir/SortedBagIterator.cpp.obj"
+}
+]
